@@ -20,7 +20,7 @@ Radio Jamming Script for Task Force Radio (per la creazione delle missioni princ
 VCOMAI (AI migliorate)</p>
 
 
-#TODO
+# TODO
 Salvataggio persistente </p>
 Implementazione economia (richiede tantissimo lavoro) </p>
 Sidemissions </p>
