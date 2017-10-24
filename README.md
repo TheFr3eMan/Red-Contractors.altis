@@ -26,6 +26,9 @@ Implementazione economia (richiede tantissimo lavoro) </p>
 Sidemissions </p>
 
 
+# BRIEFING
+La squadra dovrà scegliere il punto di partenza sulla costa dove installerà la prima fob. IA cercherá di distruggerla e impedire l'uso della radio piazzando i jammer...continua
+
 
 
 
